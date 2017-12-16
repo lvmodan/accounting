@@ -1,4 +1,4 @@
-# 使用说明
+# 使用说明test
 
 `.gs` 文件是 Google App Script，用于在 Google Spreadsheet 中建立记账本；
 
